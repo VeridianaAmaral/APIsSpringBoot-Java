@@ -8,6 +8,6 @@ public class Controle {
     
     @GetMapping("")
     public String mensagem(){
-        return "Hello Word";
+        return "Olá mundo!!";
     }
 }
